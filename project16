@@ -1,0 +1,6 @@
+#include<system.in>
+int main(){
+  int a;
+  scanf("%d",&a);
+  printf(a);
+}
